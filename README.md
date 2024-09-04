@@ -88,11 +88,13 @@ Congratulations, your troubleshoot was sucessful! Back to working tickets!
 
   ![image](https://github.com/user-attachments/assets/cef28729-e995-4a63-994b-e6613ccf5dd1)
 
-  ![image](https://github.com/user-attachments/assets/b05a2ea2-88e0-4823-857a-8150db3517bc)
+ ![image](https://github.com/user-attachments/assets/40ddde5c-ffed-4f31-986d-5ea58bee0998)
+
 
   ![image](https://github.com/user-attachments/assets/0664e905-c011-43b6-9ac5-54aee9a8560c)
 
-  ![image](https://github.com/user-attachments/assets/9bc10ba6-1ed8-4c94-baab-1dd1cc6813dc)
+ ![image](https://github.com/user-attachments/assets/63fba82e-46a2-4845-9309-7e91d68ec2c0)
+
 
   ![image](https://github.com/user-attachments/assets/e5c2e129-1fbf-43e9-8dde-bea86d1e2287)
 
@@ -110,7 +112,8 @@ Going back to Open Tickets:
 
    ![image](https://github.com/user-attachments/assets/da0d6845-0c9c-4696-9ae5-e75ac39476c8)
 
-   ![image](https://github.com/user-attachments/assets/397f4e26-2b0c-4f8a-a2b1-bb7509b67519)
+  ![image](https://github.com/user-attachments/assets/ce79d199-201f-445e-918e-6860ec2a678e)
+
 
    ![image](https://github.com/user-attachments/assets/5fa33be8-2ea7-4c2a-8486-3e09f2401e5e)
 
@@ -125,7 +128,7 @@ Work your last ticket:
 
 ![image](https://github.com/user-attachments/assets/fe1f329f-a38f-4c0a-91b4-128a5d1a5b82)
 
-![image](https://github.com/user-attachments/assets/a1fde081-cdf8-41e2-a095-86e1704da81e)
+![image](https://github.com/user-attachments/assets/71ca9524-7619-437f-87cf-cec3ad21dc91)
 
 
 Log back in as John and resolve that ticket:
@@ -141,11 +144,13 @@ Log back in as John and resolve that ticket:
 
 ![image](https://github.com/user-attachments/assets/6801c919-8ecd-4a85-81e6-06fc9711a004)
 
-![image](https://github.com/user-attachments/assets/54543c7d-a101-48a3-8868-aebd873c06ba)
+![image](https://github.com/user-attachments/assets/f74b7fbf-a74a-4c7f-b8d5-860518a6f4f7)
+
 
  *Note: If you were unable to select 'Resolve' under John Doe, log out and log back in with your admin credentials (created when osTicket was installed), go to 'Admin Panel' -> Agents -> Agents -> Select John Doe -> click the Access tab -> Change the 'View Only' access to 'Supreme Admin' -> Save Changes
 
- ![image](https://github.com/user-attachments/assets/e5afdcfd-9a05-4115-819d-5f89fa2f1130)
+ ![image](https://github.com/user-attachments/assets/fa4aa58d-9aed-483f-a53d-05df70809150)
+
 
 ![image](https://github.com/user-attachments/assets/436a93d8-0252-49a4-95fd-032858dddbf4)
 
