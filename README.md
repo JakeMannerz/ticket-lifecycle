@@ -36,13 +36,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Once the ticket is created you'll get an automatic thank you message from the Support Team
 
 
-![image](https://github.com/user-attachments/assets/1258a44b-fa1d-4529-8fed-53cc237c3818)
+![image](https://github.com/user-attachments/assets/92715456-515b-4b42-8d09-1e16aa58fbf6)
 
-![image](https://github.com/user-attachments/assets/6cad6fc0-6df0-490e-9ed7-197979548af7)
 
-![image](https://github.com/user-attachments/assets/62e7ef55-a93f-4d28-b6b2-4ec8a7f0bf61)
+![image](https://github.com/user-attachments/assets/e15ff832-9444-4282-a89f-de6ac7351ce2)
 
-![image](https://github.com/user-attachments/assets/285da751-7e15-45e6-a897-04089c871e28)
+
+
+![image](https://github.com/user-attachments/assets/cd48dcdb-cb35-4589-a8b3-cda96dc3d0ff)
+
+![image](https://github.com/user-attachments/assets/2265e615-5bf3-4fa9-81aa-d94d0bd0dd9b)
+
 
 
 
@@ -56,7 +60,8 @@ Work your Tickets!
   
    *Note: Log in is as Jane Doe or John Doe (Agents created from post-installation)
 
-  ![image](https://github.com/user-attachments/assets/dc767bfb-2774-4006-9b25-0d6af780e931)
+![image](https://github.com/user-attachments/assets/fbcacd5b-9f68-4f1e-8137-fd37a76a45fe)
+
   
    *Note: If you do not see any tickets after logging in as an Agent, log back out and log back in with your admin credentials (the credentials created when installing osTicket)
            - Go to the Admin Panel -. Agents -> Select the Agent having trouble viewing tickets -> Go to the Access tab -> Add Extended Access -> Save Changes
@@ -84,19 +89,19 @@ Congratulations, your troubleshoot was sucessful! Back to working tickets!
      -Post Reply
 - To view 'Closed' tickets, simply click 'Closed' and you should see the ticket that was just resolved
 
-  ![image](https://github.com/user-attachments/assets/db5635f3-ee89-4648-b7ae-317c515a2576)
+ ![image](https://github.com/user-attachments/assets/a18ef2f2-c25d-43ab-ad2b-bf2491423a85)
+
 
   ![image](https://github.com/user-attachments/assets/cef28729-e995-4a63-994b-e6613ccf5dd1)
 
  ![image](https://github.com/user-attachments/assets/40ddde5c-ffed-4f31-986d-5ea58bee0998)
 
-
-  ![image](https://github.com/user-attachments/assets/0664e905-c011-43b6-9ac5-54aee9a8560c)
+![image](https://github.com/user-attachments/assets/e43c4e05-f4c2-4bcf-9d03-171871ba7cb8)
 
  ![image](https://github.com/user-attachments/assets/63fba82e-46a2-4845-9309-7e91d68ec2c0)
 
 
-  ![image](https://github.com/user-attachments/assets/e5c2e129-1fbf-43e9-8dde-bea86d1e2287)
+  ![image](https://github.com/user-attachments/assets/b848837b-b95b-45ff-a080-fc56702b13f6)
 
 
 Going back to Open Tickets: 
@@ -115,7 +120,8 @@ Going back to Open Tickets:
   ![image](https://github.com/user-attachments/assets/ce79d199-201f-445e-918e-6860ec2a678e)
 
 
-   ![image](https://github.com/user-attachments/assets/5fa33be8-2ea7-4c2a-8486-3e09f2401e5e)
+   ![image](https://github.com/user-attachments/assets/4b0e2187-8b5b-4f96-b557-415207f37c60)
+
 
 
 Work your last ticket:
@@ -138,9 +144,11 @@ Log back in as John and resolve that ticket:
  - Select the 'Ticket Status' as 'Resolved'
  - Post Reply
    
-![image](https://github.com/user-attachments/assets/78de701e-544c-4ab5-8ad2-6c896e5bb75e)
+![image](https://github.com/user-attachments/assets/1bb8a894-8512-42f3-94d9-266548c43b77)
 
-![image](https://github.com/user-attachments/assets/933d71a2-d14b-4d6d-8ad5-c2ff8134a408)
+
+![image](https://github.com/user-attachments/assets/b85dbfae-f651-43b9-b76f-ee31196cd283)
+
 
 ![image](https://github.com/user-attachments/assets/6801c919-8ecd-4a85-81e6-06fc9711a004)
 
@@ -159,4 +167,5 @@ Log back in as John and resolve that ticket:
 
 Congratulations, all tickets have been resolved and/or closed!
 
-![image](https://github.com/user-attachments/assets/2be288d2-f08e-471b-86dd-5be564f725c5)
+![image](https://github.com/user-attachments/assets/52d63bfa-8832-4c03-925a-94dfd6c36b82)
+
