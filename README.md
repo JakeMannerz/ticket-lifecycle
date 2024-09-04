@@ -62,11 +62,10 @@ Work your Tickets!
            - Go to the Admin Panel -. Agents -> Select the Agent having trouble viewing tickets -> Go to the Access tab -> Add Extended Access -> Save Changes
 
 
-  ![image](https://github.com/user-attachments/assets/fa269ce8-ee24-4577-9e70-b46ee221ceed)
+ ![image](https://github.com/user-attachments/assets/2f238eef-e9b4-4bbe-b4e5-99e68a88fc37)
 
 
-  ![image](https://github.com/user-attachments/assets/c38a970c-eac6-4378-85c5-38c8211869af)
-
+![image](https://github.com/user-attachments/assets/95fa8035-1e1f-40ac-84cb-b830b3736a62)
 
 
 
@@ -148,7 +147,7 @@ Log back in as John and resolve that ticket:
 
  ![image](https://github.com/user-attachments/assets/e5afdcfd-9a05-4115-819d-5f89fa2f1130)
 
- ![image](https://github.com/user-attachments/assets/17dbaad5-3874-4bf5-8652-91ca919563bf)
+![image](https://github.com/user-attachments/assets/436a93d8-0252-49a4-95fd-032858dddbf4)
 
 
 
